@@ -8,7 +8,7 @@ function firstChar(text) {
 				return arr[i]
 			}
 		}
-	return " "
+	return ""
 }
 
 // Do not change the code below
